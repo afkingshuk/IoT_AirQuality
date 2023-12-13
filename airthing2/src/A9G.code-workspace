@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"path": "../.."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"gps_parse.h": "c",
+			"main_task.h": "c",
+			"mqtt_task.h": "c",
+			"gps_task.h": "c",
+			"secret.h": "c",
+			"mqtt.h": "c",
+			"pm_task.h": "c",
+			"api_hal_pm.h": "c",
+			"stdio.h": "c",
+			"config.h": "c",
+			"api_hal_uart.h": "c"
+		}
+	}
+}
